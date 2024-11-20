@@ -1,7 +1,7 @@
 # Text-Summarization-with-NLP
 
 
-![Firefly 20241120152724](https://github.com/user-attachments/assets/a1c83106-b2b2-42dc-aa87-d5332d9e68ec)
+![Firefly 20241120152724](https://github.com/user-attachments/assets/b0735424-a3da-4821-8278-03be6561fb5f)
 
 The Text Summarization NLP Project is a comprehensive machine learning application focused on automating text summarization using Natural Language Processing. Key features include:
 
